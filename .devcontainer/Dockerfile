@@ -1,4 +1,4 @@
-FROM docker.io/jupyter/datascience-notebook:2023-05-30
+FROM docker.io/jupyter/datascience-notebook:aarch64-2023-05-30
 
 USER root
 
